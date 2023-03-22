@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
-""" FIX IT WHERE HEALTH STAYS DAMAGED
+""" 
 Created on Wed Mar 15 17:13:53 2023
 
 @author: asoma
 """
 import random
-''' DECK
+''' DECK???
 list1 = [1,2,3,4,5,6,7,8,9,10,11,12,13]
 random.shuffle(list1)
 print(list1)
